@@ -7,7 +7,7 @@ const Countdown = () => {
     minutes: number;
     days: number;
   } => {
-    const difference = +new Date('2020-07-12') - +new Date();
+    const difference = +new Date('2020-07-11') - +new Date();
 
     return difference > 0
       ? {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/masuria-countdown/static/css/main.95464269.chunk.css",
-    "main.js": "/masuria-countdown/static/js/main.9ebba194.chunk.js",
-    "main.js.map": "/masuria-countdown/static/js/main.9ebba194.chunk.js.map",
+    "main.js": "/masuria-countdown/static/js/main.92aefcff.chunk.js",
+    "main.js.map": "/masuria-countdown/static/js/main.92aefcff.chunk.js.map",
     "runtime-main.js": "/masuria-countdown/static/js/runtime-main.af61a7aa.js",
     "runtime-main.js.map": "/masuria-countdown/static/js/runtime-main.af61a7aa.js.map",
     "static/js/2.7859b7b9.chunk.js": "/masuria-countdown/static/js/2.7859b7b9.chunk.js",
     "static/js/2.7859b7b9.chunk.js.map": "/masuria-countdown/static/js/2.7859b7b9.chunk.js.map",
     "index.html": "/masuria-countdown/index.html",
-    "precache-manifest.f1f61aa2885fcdb9593bf70bf0a02684.js": "/masuria-countdown/precache-manifest.f1f61aa2885fcdb9593bf70bf0a02684.js",
+    "precache-manifest.5ae0f3631999724c2f01462c7e18adf8.js": "/masuria-countdown/precache-manifest.5ae0f3631999724c2f01462c7e18adf8.js",
     "service-worker.js": "/masuria-countdown/service-worker.js",
     "static/css/main.95464269.chunk.css.map": "/masuria-countdown/static/css/main.95464269.chunk.css.map",
     "static/js/2.7859b7b9.chunk.js.LICENSE.txt": "/masuria-countdown/static/js/2.7859b7b9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.af61a7aa.js",
     "static/js/2.7859b7b9.chunk.js",
     "static/css/main.95464269.chunk.css",
-    "static/js/main.9ebba194.chunk.js"
+    "static/js/main.92aefcff.chunk.js"
   ]
 }

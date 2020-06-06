@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/masuria-countdown/precache-manifest.f1f61aa2885fcdb9593bf70bf0a02684.js"
+  "/masuria-countdown/precache-manifest.5ae0f3631999724c2f01462c7e18adf8.js"
 );
 
 self.addEventListener('message', (event) => {

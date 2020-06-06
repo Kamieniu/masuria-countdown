@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3601bf1de0780d914d7bb12229948bd4",
+    "revision": "bf7c57844f1306b797b5862495815b95",
     "url": "/masuria-countdown/index.html"
   },
   {
-    "revision": "32cb3fa2ec9dd15543c5",
+    "revision": "2caf7593d4d8b2209305",
     "url": "/masuria-countdown/static/css/main.95464269.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masuria-countdown/static/js/2.7859b7b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32cb3fa2ec9dd15543c5",
-    "url": "/masuria-countdown/static/js/main.7cbc96ff.chunk.js"
+    "revision": "2caf7593d4d8b2209305",
+    "url": "/masuria-countdown/static/js/main.9ebba194.chunk.js"
   },
   {
     "revision": "6d03d888ce38349c3316",
